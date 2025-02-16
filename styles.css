@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+
+table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        .imageContainer img {
+            width: 400px; /* Adjust as needed */
+            height: auto;
+        }
